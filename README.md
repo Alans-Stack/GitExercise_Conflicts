@@ -2,7 +2,6 @@ MERGED EX1
 
 # GitExercise_Conflicts
 
-<<<<<<< HEAD
 
 ## Purpose
 To teach you to deal with git merge conflicts in 
